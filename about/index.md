@@ -15,8 +15,6 @@ Tit1e
 ### 社交
 <a href="https://twitter.com/evollyone">Twitter</a>
 <a href="https://www.instagram.com/tit1e_/">Instagram</a>
-<a href="http://weibo.com/evollyone">Weibo</a>
-<a href="https://www.zhihu.com/people/chen-hao-liang-22">Zhihu</a>
 <a href="mailto:evollyone@outlook.com">Mail</a>
 ### 經歷
 2016年6月畢業於「浙江建設職業技術學院」。
