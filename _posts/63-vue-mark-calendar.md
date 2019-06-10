@@ -1,7 +1,7 @@
 ---
 title: vue-mark-calendar
 date: 2019-04-06 21:26:23
-tags: ['学习笔记']
+tags: ['学习', 'vue']
 ---
 
 [vue-mark-calendar](<https://github.com/Tit1e/vue-mark-calendar>) 是基于 [vue-calendar](<https://github.com/zwhGithub/vue-calendar>) 改造的插件，出于公司业务需求，在原有基础上进行了功能的增加与样式的调整。样式是尽量根据 [element-ui](<http://element-cn.eleme.io/#/zh-CN/component/installation>) 的样式写的，因为公司用的是 element-iu + Vue 的技术栈，希望系统的界面上比较统一。

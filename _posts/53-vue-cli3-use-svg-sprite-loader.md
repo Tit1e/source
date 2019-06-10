@@ -1,7 +1,7 @@
 ---
 title: 在 Vue CLI 3 中配置 svg-sprite-loader
 date: 2019-03-12 14:25:46
-tags: ['vue','vue-cli','学习笔记']
+tags: ['vue', '学习']
 ---
 
 ### 安装

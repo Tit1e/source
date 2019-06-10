@@ -1,7 +1,7 @@
 ---
 title: hexo rss 报错解决方案
 date: 2019-03-30 09:24:37
-tags: ['hexo', '折腾笔记']
+tags: ['折腾']
 ---
 
 这几天一直在折腾博客主题，原来用的 [hexo-theme-apollo](<https://github.com/pinggod/hexo-theme-apollo>) 去看了下作者已经停止维护了，apollo 主题本身已经是一个比较简洁的主题了，配色来源于 [Vue](<https://cn.vuejs.org/>) 的官网，但看久了还是觉得审美疲劳，我有个关注的博主 [ky0n](<https://ky0n.xyz/>) 的博客主题我挺喜欢的，非常简洁，所以我就想照着他的主题修改一个，但改的过程中发现，他主题里面的 class 命名，dom结构跟 apollo 的非常相似，所以我猜他可能也是在 apollo 基础上改的。

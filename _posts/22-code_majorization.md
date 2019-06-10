@@ -1,7 +1,7 @@
 ---
 title: 一个前端面试题引发的思考
 date: 2017-03-03 13:12:09
-tags: ['学习笔记']
+tags: ['学习']
 ---
 昨晚群上有个小伙伴扔出了一个前端面试题，内容是这样的：
 >写个js函数func(str)，传参str为一个字符串，实现把这个字符串语句中的单词（空格隔开的）次序逆序。比如把 I am a coder变成 coder a am I，不允许使用reverse，join，substring，split。

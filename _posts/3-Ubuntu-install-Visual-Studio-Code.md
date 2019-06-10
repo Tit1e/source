@@ -1,7 +1,7 @@
 ---
 title: Ubuntu下安装 Visual Studio Code
 date: 2016-03-14
-tags: ['linux','ubuntu','elementary OS']
+tags: ['折腾']
 ---
 昨天在写eOS的使用体验的时候，无意间发现VS Code在linux可以用，于是写完博客后就立马去安装VSC，但是照着网上的教程，安装过程中还是遇到了不少的问题。所以我总结了下，希望能帮到有需要的人。
 

@@ -1,7 +1,7 @@
 ---
 title: alfred 使用 workflows 快速进行图片压缩
 date: 2019-04-12 21:29:00
-tags: ['mac 技巧']
+tags: ['mac']
 ---
 
 图片压缩是我平时经常用到的操作，一开始是去 [tinypng](<https://tinypng.com/>) 使用网页版压缩，后来在逛 Github 时发现了 [TinyPNG4Mac](<https://github.com/kyleduo/TinyPNG4Mac>) 这个小工具，相比之前的网页操作已经方便了不少，今天在逛 Twitter 时又发现了一个 alfred 的 workflows 工作流，可以在本地快速进行图片压缩。下载地址在 [image Compressor](<https://github.com/BlackwinMin/alfred-gallery/tree/master/image%20Compressor>)。
@@ -53,6 +53,6 @@ brew install gifsicle
 
 ![](https://personal-1251959693.cos.ap-chengdu.myqcloud.com/2019-04-12-Xnip2019-04-12_22-17-07.png)
 
-压缩效果有点差异，但相差不多，但是压缩速度差非常多。TinyPNG 还会出现丢图现象，下图右侧其实应该有三张图片，但是压缩只为了我两种张，而且速度非常慢，从修改日期可以看出两张图的创建时间相差了一分钟。image Compressor 由于使用的是本地的工具库，因此几张图压缩只要几秒就可完成。
+压缩效果有点差异，相差不多，但是压缩速度差非常多。TinyPNG 还会出现丢图现象，下图右侧其实应该有三张图片，但是压缩只为了我两种张，而且速度非常慢，从修改日期可以看出两张图的创建时间相差了一分钟。image Compressor 由于使用的是本地的工具库，因此几张图压缩只要几秒就可完成。
 
 ![](https://personal-1251959693.cos.ap-chengdu.myqcloud.com/2019-04-12-Xnip2019-04-12_22-21-59.png)

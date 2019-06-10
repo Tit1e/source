@@ -1,7 +1,7 @@
 ---
 title: Mac 下为 MAMP (Pro) 安装 redis 扩展
 date: 2018-05-12 15:04:42
-tags: ['Mac','折腾笔记']
+tags: [折腾', 'Mac']
 ---
 Mac 用户一般开本地服务器环境的时候用得比较多的就是 [MAMP](https://www.mamp.info/en/) 这款软件吧，指定目录，一键开启，甚至可以什么都不用配置就可以将服务跑起来。不过前阵子开发的时候，由于公司项目用了 [redis](https://redis.io/) ，但 MAMP 本身的 php 是不带有 redis 插件的，为了装这个东西，我折腾了好几个小时，所以在这里记录一下。
 <!--more-->

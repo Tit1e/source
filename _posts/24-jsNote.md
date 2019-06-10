@@ -1,7 +1,7 @@
 ---
 title: JavaScript高级程序设计笔记（一）
 date: 2017-03-04 11:46:34
-tags: ['学习笔记']
+tags: ['学习']
 ---
 
 「JavaScript高级程序」这本书知道的不用说太多。但是这书厚得跟板砖一样，而且长时间阅读又枯燥无味，啃下来的确很难。这段时间打算把JS原生捡起来复习一遍，因为jQuery用的太多导致原生都快忘光了。以后笔记可能会做的比较精炼，这里就记一些比较重点的东西。
@@ -20,7 +20,7 @@ tags: ['学习笔记']
     <script type="text/javascript">
         // code...
      </script>
-```
+ ```
 - 通过`<script>`标签的`src`属性引入外部JS代码
 ```javascript
     <script type="text/javascript" src="url"></script>
@@ -29,6 +29,7 @@ tags: ['学习笔记']
 
 #### JavaScript基本概念
 - 区分大小写
+
   * JavaScript中的变量，函数名或操作符都区分大小写
 - 标识符
   * 标识符：指的是JS代码中的变量、函数、属性、函数参数的名字
@@ -37,6 +38,7 @@ tags: ['学习笔记']
   * 一般情况下标识符采用驼峰法命名，如myPage、helloWorld
 - 注释
   * 单行注释 
+
     - `//单行注释`
   * 多行注释
     - ```
@@ -48,6 +50,7 @@ tags: ['学习笔记']
 
 #### 严格模式
   - 全局使用严格模式
+
     + 脚本顶部加入`'use strict';`
   - 函数内使用严格模式
     + ```
@@ -144,7 +147,7 @@ tags: ['学习笔记']
   ```javascript
    var floatNum1 = 0.1;
    var floatNum2 = .1;//这种写法有效，但是不推荐
-   ```
+  ```
   + 下列两种情况下，浮点会被转换成整数保存
   ```javascript
   var floatNum1 = 1.; // 小数点后面没有数字——解析为 1 
