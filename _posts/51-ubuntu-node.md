@@ -57,7 +57,7 @@ Ubuntu 下直接执行 `sudo apt install nodejs` 安装的 node 版本回会非�
 sudo apt update
 sudo apt upgrade
 #添加 node 源
-curl -sL https://deb.nodesource.com/setup_9.x | sudo -E shell -
+curl -sL https://deb.nodesource.com/setup_9.x | sudo -E bash -
 #安装
 sudo apt install -y nodejs
 ```
