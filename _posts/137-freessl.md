@@ -20,7 +20,7 @@ tags: ['折腾']
 
 解析完了之后，导出证书，我用的 Nginx 那我就选择 Nginx。下载后是一个压缩包，解压后得到两个文件，一个扩展名为`.crt`，另一个为`.key`。这两个文件到时候需要上传到服务器中，Nginx配置中需要用到。
 
-Nginx 的配置文件大致如下
+Nginx 的配置文件大致如下：
 
 ```json
 // xxxx.conf
@@ -45,7 +45,7 @@ server {
 
 ```
 
-然后重启Nginx
+然后重启Nginx：
 
 ```bash
 sudo nginx -s reload

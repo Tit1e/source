@@ -6,7 +6,7 @@ tags: ['折腾']
 ![](https://personal-1251959693.cos.ap-chengdu.myqcloud.com/2018-12-15-a7485ca8-e903-11e5-9b4d-f65a8e09d0b3.png)
 
 **系统信息**
-[elementary OS 0.3.2 Freya (64-bit)](https://elementary.io)基于 Ubuntu 14.04 构建
+[elementary OS 0.3.2 Freya (64-bit)](https://elementary.io) 基于 Ubuntu 14.04 构建
 
 **硬件信息**
 ThinkPad x201
