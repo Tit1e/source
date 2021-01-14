@@ -14,5 +14,5 @@ tags: ['学习']
 
 最后的解决方案是定义了一个变量，平时为 `false`，一但触发了 `mousemove` 事件，就把它设置为 ` true` ，然后在 `mouseup` 事件结束时设置一个定时器，延时 200 毫秒，200毫秒后把这个变量设为 `false` ，因为 `mouseup` 之后马上会触发 `click` 事件，这个时间肯定是小于 200 毫秒的，所以在 点击事件的函数中再判断下这个变量是否为 `true` 就可以了，如果为 `true` 则直接 `return` 。
 
-[Demo](https://evolly.one/demos/drag-and-click/)
+[Demo](https://evolly.one/demos/120-drag-and-click/)
 

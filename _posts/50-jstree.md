@@ -76,4 +76,6 @@ function customMenu(node) {
   return items
 }
 ```
-[参考代码](https://github.com/Tit1e/Demos/tree/master/50.jsTree)
+[参考代码](https://github.com/Tit1e/Demos/tree/master/50-jsTree)
+
+[demo](https://evolly.one/demos/50-jsTree/)

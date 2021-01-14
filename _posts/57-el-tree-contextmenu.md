@@ -10,7 +10,7 @@ element-ui 的树形控件本身是不支持右键的，官方文档上推荐把
 
 右键菜单我使用了 [vue-context-menu](<https://github.com/xunleif2e/vue-context-menu>) 插件，引入方式可看 `README`。
 
-[Demo](<https://evolly.one/demos/57.el-tree-contextmenu/dist/>)
+[Demo](https://evolly.one/demos/57-el-tree-contextmenu/)
 
 下面是具体代码：
 
